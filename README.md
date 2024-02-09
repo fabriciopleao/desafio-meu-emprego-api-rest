@@ -13,6 +13,8 @@ Este projeto desenvolvido em Java na IDE Eclipse faz parte do processo de busca 
 ## Fase 3: Desenvolvimento de API usando Spring
 Desenvolvimento de uma API REST utilizando Spring Boot. O endpoint foi implementado e validado, garantindo que o status HTTP 200 seja retornado e que o corpo da resposta contenha a mensagem esperada.
 
+      Mensagem esperada: Eu posso conquistar tudo o que eu me comprometo.
+
 ## Instruções para executar o projeto api-spring
 - Clone este repositório.
 - Abra o prompt de comando.
