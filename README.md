@@ -27,7 +27,7 @@ Desenvolvimento de uma API REST utilizando Spring Boot. O endpoint foi implement
 ## Instruções para executar o projeto api-spring-restassured
 - Abra o projeto.
 - Verifique a porta do servidor se está correta.
-- Execute a clase NovaMensagemTest.java com JUnit5.
+- Execute a classe NovaMensagemTest.java com JUnit5.
 
 ## Endpoint
 "/api/message"
