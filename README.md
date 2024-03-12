@@ -1,5 +1,5 @@
-# desafio-meu-emprego-api-rest
-Este projeto desenvolvido em Java na IDE Eclipse faz parte do processo de busca por emprego e consiste no desenvolvimento de uma API REST utilizando Spring Boot. A fase 3 do desafio visa demonstrar habilidades no desenvolvimento de APIs utilizando uma das principais tecnologias do mercado. 
+# projeto-api-spring-rest
+Projeto destinado à criação de uma API utilizando Spring Boot, e utilizar a tecnologia Restassured para validações da mesma.
 
 
 ## Tecnologias Utilizadas no Projeto:
@@ -10,7 +10,7 @@ Este projeto desenvolvido em Java na IDE Eclipse faz parte do processo de busca 
 - JSON Simple
 
   
-## Fase 3: Desenvolvimento de API usando Spring
+## Desenvolvimento de API usando Spring
 Desenvolvimento de uma API REST utilizando Spring Boot. O endpoint foi implementado e validado, garantindo que o status HTTP 200 seja retornado e que o corpo da resposta contenha a mensagem esperada.
 
       Mensagem esperada: Eu posso conquistar tudo o que eu me comprometo.
